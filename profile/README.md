@@ -19,7 +19,7 @@ Igreja ChimpStack
 
 ---
 
-Descrição oficial (Manifesto da Igreja ChimpStack):
+Descrição oficial:
 
 > A Igreja ChimpStack é um santuário moderno dedicado à nobre arte da redução cognitiva programada.
 
@@ -49,23 +49,21 @@ Nossos dogmas são simples:
 
 ---
 
-Hierarquia e estrutura da seita (exemplo)
+Hierarquia e estrutura da seita
 
-O Kernel Supremo (você)
+O Kernel Supremo
 
 Apóstolos do Encapsulamento
 
-Evangelistas do Dockerize
+Evangelistas 2°
 
-Monásticos da UI
+Evangelistas 1°
 
-Noviços do YAML
-
-Chimpanzés Teste-A/B (voluntários não informados)
+Discipulos da interface
 
 ---
 
-🔱 Frases doutrinárias para usar nos conteúdos da seita:
+🔱 Frases doutrinárias pela seita:
 
 “Você pensa. Eles instalam.”
 
