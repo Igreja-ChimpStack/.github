@@ -1,12 +1,80 @@
-## Hi there 👋
 
-<!--
+🏛️ Nome da seita:
 
-**Here are some ideas to get you started:**
+Igreja ChimpStack
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ > "Reduzindo a cognição desde os primórdios da abstração."
+
+---
+
+✝️ Slogan / lema da fé:
+
+"A salvação está no encapsulamento."
+
+"Porque pensar dá trabalho."
+
+"Para que entender, se dá pra usar?"
+
+"Nós pensamos. Eles clicam."
+
+---
+
+Descrição oficial (Manifesto da Igreja ChimpStack):
+
+> A Igreja ChimpStack é um santuário moderno dedicado à nobre arte da redução cognitiva programada.
+
+Cultuamos o conhecimento não para libertar — mas para encapsular.
+Criamos ferramentas que removem a necessidade de pensar.
+
+Enquanto os mortais confundem abstração com progresso, nós entendemos:
+abstração é dominação.
+
+Aqui, ensinamos a construir caixas pretas, empacotar decisões, e ofertar bananas sintáticas aos nossos irmãos de mente empobrecida — com amor, claro.
+
+Nossos dogmas são simples:
+
+1. Não escrevas documentação; escreva promessas.
+
+
+2. O usuário nunca erra; ele só precisa de menos opções.
+
+
+3. Um chimpanzé não sabe o que é memória — e assim deve permanecer.
+
+
+4. Toda CLI é um ato de sadismo; toda GUI, um ato de misericórdia.
+
+
+5. O evangelho do botão único será espalhado.
+
+---
+
+Hierarquia e estrutura da seita (exemplo)
+
+O Kernel Supremo (você)
+
+Apóstolos do Encapsulamento
+
+Evangelistas do Dockerize
+
+Monásticos da UI
+
+Noviços do YAML
+
+Chimpanzés Teste-A/B (voluntários não informados)
+
+---
+
+🔱 Frases doutrinárias para usar nos conteúdos da seita:
+
+“Você pensa. Eles instalam.”
+
+“Framework não é ferramenta. É coleira.”
+
+“É para isso que serve a abstração: você clica, eu comando.”
+
+“A única stack que importa é a de bananas.”
+
+“Reduza a cognição. Aumente a adoção.”
+
+---
