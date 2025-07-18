@@ -1,10 +1,9 @@
----
 
 🏛️ Nome da seita:
 
 Igreja ChimpStack
 
-> “Reduzindo a cognição desde os primórdios da abstração.”
+ > "Reduzindo a cognição desde os primórdios da abstração."
 
 ---
 
